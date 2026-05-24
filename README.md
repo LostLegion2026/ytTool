@@ -28,6 +28,6 @@ This mod does not require a new game to use so can be added to
 the game when you want to.. ;) 
 ```
 
-If there are any issues <a href="mailto:lostLegion@proton.me?subject=yttool">legionslost@proton.me</a> 
+If there are any issues <a href="mailto:LostLegion@proton.me?subject=yttool">legionslost@proton.me</a> 
 or you can support me <a href="https://buymeacoffee.com/legionslost"> <img src="Media/bmc.webp" width=50 height=50> <img src="Media/qr-code.png" width="100" height="100"></a>
 
